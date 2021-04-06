@@ -1,0 +1,2 @@
+Lol line not used :p
+name=minilad HIAY=4 attributes={chfire=0 chice=1 chwater=2 CHAIR=3} filename={HIA {HIAY value +} .png}
